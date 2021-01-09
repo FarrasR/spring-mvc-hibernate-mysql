@@ -14,7 +14,7 @@
     </h4>
 
     <h4>
-        List Employees <a href="listDept">here</a>
+        List Dept <a href="listDept">here</a>
     </h4>
 
 </div>
